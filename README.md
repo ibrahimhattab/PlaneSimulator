@@ -23,11 +23,19 @@ Airflow (Hava Akımı),The relative velocity of air passing over the wing surfac
 Velocity (Hız),Current speed displayed in both CM/S and M/S for precision.
 
 🎮 Controls
+
 Left Click: Increase Speed (Thrust)
+
 Right Click: Decrease Speed
+
 Space: Air Brake
+
 F: Enter / Exit Aircraft
+
 G: Toggle Landing Gear (Pedals)
+
 Q / E: Yaw (Turn Left / Right)
+
 A / D: Roll (Tilt Left / Right)
+
 W / S: Pitch (Nose Up / Down)
