@@ -1,6 +1,7 @@
 # PlaneSimulator - Unreal Engine 5
 This project is a physics-based flight simulation prototype developed using Unreal Engine 5. The primary focus is the real-time calculation of aerodynamic forces acting on an aircraft and the visualization of these telemetry data via a custom HUD (Heads-Up Display) system.
 
+
 🚀 Key Features
 The simulator calculates the fundamental physical variables that dictate aircraft flight mechanics:
 
@@ -11,6 +12,7 @@ Thrust System: Variable propulsion management integrated with throttle input.
 Real-time Telemetry HUD: A comprehensive data overlay providing instant feedback on flight parameters.
 
 Physics-Driven Movement: Movement is handled through Unreal Engine's Chaos Physics engine by applying forces, rather than simple kinematic translations.
+
 
 
 📊 Telemetry Data Tracked
@@ -32,6 +34,8 @@ Pitch Angle (Yunuslama),The vertical orientation of the aircraft's nose relative
 Airflow (Hava Akımı),The relative velocity of air passing over the wing surfaces.
 
 Velocity (Hız),Current speed displayed in both CM/S and M/S for precision.
+
+
 
 🎮 Controls
 
